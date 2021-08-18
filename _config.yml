@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: Mashiro
-language: en
+title: Mashiro Blog
+subtitle: 'subtitle'
+description: 'Hello description'
+keywords: '123'
+author: 'Mashiro'
+language: zh-Hans
 timezone: ''
 
 # URL
